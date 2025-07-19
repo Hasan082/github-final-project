@@ -11,7 +11,7 @@ This is a simple **Bash script** to calculate the **Simple Interest** based on t
 * Additional Authors: **Md Hasanuzzaman (Hasan082)**
 
 
-## 📝 **Description**
+## **Description**
 
 The script calculates the **Simple Interest (SI)** using the formula:
 
@@ -25,7 +25,6 @@ Where:
 * **T** = Time period in years
 * **R** = Annual rate of interest (%)
 
----
 
 ## ▶ **How to Run**
 
@@ -82,7 +81,7 @@ echo $s
 
 ---
 
-## ✅ **Sample Output**
+## **Sample Output**
 
 ```
 Enter the principal:
@@ -97,6 +96,6 @@ The simple interest is:
 
 ---
 
-## 📄 **License**
+## **License**
 
 This project is licensed under the MIT License - feel free to modify and use.
