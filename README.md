@@ -53,8 +53,6 @@ Where:
    100
    ```
 
----
-
 ## **Script Code**
 
 ```bash
