@@ -8,7 +8,7 @@ This is a simple **Bash script** to calculate the **Simple Interest** based on t
 ## 📌 **Author**
 
 * Original Author: **Upkar Lidder (IBM)**
-* Additional Authors: **\<your GitHub username>**
+* Additional Authors: **Md Hasanuzzaman (Hasan082)**
 
 
 ## 📝 **Description**
