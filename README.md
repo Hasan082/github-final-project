@@ -1,7 +1,3 @@
-Here’s a well-structured **README.md** for your script:
-
----
-
 # Simple Interest Calculator (Bash Script)
 
 This is a simple **Bash script** to calculate the **Simple Interest** based on the principal amount, annual rate of interest, and time period in years.
