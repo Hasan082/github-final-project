@@ -26,7 +26,7 @@ Where:
 * **R** = Annual rate of interest (%)
 
 
-## ▶ **How to Run**
+## **How to Run**
 
 1. **Make the script executable**
 
@@ -55,7 +55,7 @@ Where:
 
 ---
 
-## 💻 **Script Code**
+## **Script Code**
 
 ```bash
 #!/bin/bash
@@ -79,8 +79,6 @@ echo "The simple interest is:"
 echo $s
 ```
 
----
-
 ## **Sample Output**
 
 ```
@@ -93,8 +91,6 @@ Enter time period in years:
 The simple interest is:
 180
 ```
-
----
 
 ## **License**
 
