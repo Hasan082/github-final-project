@@ -4,14 +4,12 @@ This is a simple **Bash script** to calculate the **Simple Interest** based on t
 
 ⚠ **Note:** This script is for learning and demonstration purposes only. Do not use in production.
 
----
 
 ## 📌 **Author**
 
 * Original Author: **Upkar Lidder (IBM)**
 * Additional Authors: **\<your GitHub username>**
 
----
 
 ## 📝 **Description**
 
