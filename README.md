@@ -90,4 +90,6 @@ The simple interest is:
 180
 ```
 
+## **License**
 
+This project is licensed under the MIT License - feel free to modify and use.
