@@ -1,4 +1,4 @@
-# Simple Interest Calculator -Bash Script
+# Simple Interest Calculator - Bash Script
 
 This is a simple **Bash script** to calculate the **Simple Interest** based on the principal amount, annual rate of interest, and time period in years.
 
