@@ -92,4 +92,4 @@ The simple interest is:
 
 ## **License**
 
-This project is licensed under the MIT License - feel free to modify and use.
+This project is licensed under the MIT License 
